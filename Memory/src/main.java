@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**@author Óscar Gómez Fernández
  * @version 1.1 - Aquesta versió incorpora JavaDoc.
  * 
- * Mitjançant una única classe, executo tot el programa del Memory.
+ * Mitjançant una única classe, executo tot el Memory.
  * 
 */
 
